@@ -38,8 +38,7 @@ I believe in continuous learning and development. Here's what I am working on an
 
 - [AoA Project](https://github.com/ojas-chaturvedi/AoA-Project) - A brief description of a current project and its status. _(In Progress)_
   - Stuff
-- [Triggered Sentiments: NLP Insights into the Gun Control Controversy](https://github.com/ojas-chaturvedi/gun-debate) - Outline of another ongoing project you are actively contributing to. _(In Progress)_
-  - Stuff
+- [Triggered Sentiments: NLP Insights into the Gun Control Controversy](https://github.com/ojas-chaturvedi/gun-debate) - This project is a sentiment analysis of federal gun control cases, employing Natural Language Processing techniques to categorize cases as pro-gun rights or pro-gun control and to identify recurring themes and rhetorical strategies in legal arguments. The goal is to understand the influence of language and sentiment on judicial decisions in the contentious arena of gun control legislation. _(In Progress)_
 - **Future Project 1**: A concept for a future project I'm excited to start. _(Planned)_
 - **Future Project 2**: Outline of a project idea that I will be exploring after completing my current projects. _(Planned)_
 
