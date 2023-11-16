@@ -38,8 +38,7 @@ I believe in continuous learning and development. Here's what I am working on an
 
 ### In-Progress Projects
 
-- [AoA Project](https://github.com/ojas-chaturvedi/AoA-Project) - A brief description of a current project and its status.
-  - Stuff
+- [AI-Based Precision Medicine Platform](https://github.com/ojas-chaturvedi/AoA-Project) - Build an AI-powered platform that can analyze genetic data, medical records using homomorphic encryption, and research to provide personalized treatment recommendations.
 - [Triggered Sentiments: NLP Insights into the Gun Control Controversy](https://github.com/ojas-chaturvedi/gun-debate) - This project is a sentiment analysis of federal gun control cases, employing Natural Language Processing techniques to categorize cases as pro-gun rights or pro-gun control and to identify recurring themes and rhetorical strategies in legal arguments. The goal is to understand the influence of language and sentiment on judicial decisions in the contentious arena of gun control legislation.
 
 ### Future Projects Ideas
