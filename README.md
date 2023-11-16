@@ -36,8 +36,10 @@ I'm Ojas Chaturvedi, a passionate high school student from BASIS Chandler, Arizo
 
 I believe in continuous learning and development. Here's what I am working on and looking forward to:
 
-- **Ongoing Project 1**: [Title of Current Project](#) - A brief description of a current project and its status. _(In Progress)_
-- **Ongoing Project 2**: [Title of Another Current Project](#) - Outline of another ongoing project you are actively contributing to. _(In Progress)_
+- [AoA Project](https://github.com/ojas-chaturvedi/AoA-Project) - A brief description of a current project and its status. _(In Progress)_
+  - Stuff
+- [Triggered Sentiments: NLP Insights into the Gun Control Controversy](https://github.com/ojas-chaturvedi/gun-debate) - Outline of another ongoing project you are actively contributing to. _(In Progress)_
+  - Stuff
 - **Future Project 1**: A concept for a future project I'm excited to start. _(Planned)_
 - **Future Project 2**: Outline of a project idea that I will be exploring after completing my current projects. _(Planned)_
 
