@@ -30,26 +30,30 @@ I'm Ojas Chaturvedi, a passionate high school student from BASIS Chandler, Arizo
 - 💡 I'm eager to contribute to open source projects and collaborate with others who share my interests.
 - 🔮 For a glimpse into what I'm planning next, check out my [Current & Future Projects](#current--future-projects) section below.
 
-## Current & Future Projects
+## Projects
 
-<!-- TODO Update with Current & Future Projects -->
+<!-- TODO Update Projects -->
 
 I believe in continuous learning and development. Here's what I am working on and looking forward to:
 
-- [AoA Project](https://github.com/ojas-chaturvedi/AoA-Project) - A brief description of a current project and its status. _(In Progress)_
+### In-Progress Projects
+
+- [AoA Project](https://github.com/ojas-chaturvedi/AoA-Project) - A brief description of a current project and its status.
   - Stuff
-- [Triggered Sentiments: NLP Insights into the Gun Control Controversy](https://github.com/ojas-chaturvedi/gun-debate) - This project is a sentiment analysis of federal gun control cases, employing Natural Language Processing techniques to categorize cases as pro-gun rights or pro-gun control and to identify recurring themes and rhetorical strategies in legal arguments. The goal is to understand the influence of language and sentiment on judicial decisions in the contentious arena of gun control legislation. _(In Progress)_
-- **Future Project 1**: A concept for a future project I'm excited to start. _(Planned)_
-- **Future Project 2**: Outline of a project idea that I will be exploring after completing my current projects. _(Planned)_
+- [Triggered Sentiments: NLP Insights into the Gun Control Controversy](https://github.com/ojas-chaturvedi/gun-debate) - This project is a sentiment analysis of federal gun control cases, employing Natural Language Processing techniques to categorize cases as pro-gun rights or pro-gun control and to identify recurring themes and rhetorical strategies in legal arguments. The goal is to understand the influence of language and sentiment on judicial decisions in the contentious arena of gun control legislation.
 
-Feel free to reach out if you have feedback, questions, or want to collaborate on any of these projects!
+### Future Projects Ideas
 
-## Past Projects
+- **Autonomous Drone Traffic Management System**: Develop a system to manage the traffic of autonomous drones in urban areas to ensure safety, efficiency, and compliance with regulations.
+- **Smart City Infrastructure and Services Integration Platform**: Develop a centralized platform that integrates various smart city services like traffic management, waste management, energy usage, and emergency services for improved efficiency and citizen experience.
+- **Ocean Cleanup and Monitoring Autonomous Fleet**: Design and program an autonomous fleet of vessels and drones to clean up ocean waste and monitor marine health.
 
-<!-- TODO Update with Past Projects -->
+### Past Projects Examples
 
 - [Project Name](#): A brief description of a significant project you've worked on, related to computer science or AI.
 - [Project Name](#): Another project showcasing your skills or interests.
+
+Feel free to reach out if you have feedback, questions, or want to collaborate on any of these projects!
 
 ## Connect with Me
 
