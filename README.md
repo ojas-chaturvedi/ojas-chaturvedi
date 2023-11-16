@@ -61,7 +61,6 @@ Feel free to reach out if you have feedback, questions, or want to collaborate o
 
 - 📧 [Email](oj.chaturvedi.2024@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ojaschaturvedi/)
-- 📄 [Resume or Portfolio]
 
 ## Thank You!
 
