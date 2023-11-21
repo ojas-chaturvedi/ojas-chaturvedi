@@ -49,7 +49,7 @@ I believe in continuous learning and development. Here's what I am working on an
 
 ### Past Projects Examples
 
-- [Games in Python](https://github.com/ojas-chaturvedi/Python-projects): A brief description of a significant project you've worked on, related to computer science or AI.
+- [Python-Projects](https://github.com/ojas-chaturvedi/Python-projects): On my GitHub repository "Python-projects," you'll find a range of engaging games that I developed in Python during the AP Computer Science Principles course in the 2020-2021 school year. This collection includes classics and originals like "Brick Layer," "Ciphers," and "Figure8 Pattern," alongside popular adaptations such as "Hangman," "Pong," "Snake," "Space Invaders," and "Tic Tac Toe." There's also "Mortgage Calculator" for those interested in practical applications, and my own creation, "Protect the President Original game," which offers a unique gaming experience.
 - [Project Name](#): Another project showcasing your skills or interests.
 
 Feel free to reach out if you have feedback, questions, or want to collaborate on any of these projects!
