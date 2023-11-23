@@ -1,0 +1,79 @@
+% Document class and font size
+\documentclass[a4paper,9pt]{extarticle}
+
+% Packages
+\usepackage[utf8]{inputenc} % For input encoding
+\usepackage{geometry} % For page margins
+\geometry{a4paper, margin=0.75in} % Set paper size and margins
+\usepackage{titlesec} % For section title formatting
+\usepackage{enumitem} % For itemized list formatting
+\usepackage{hyperref} % For hyperlinks
+
+% Formatting
+\setlist{noitemsep} % Removes item separation
+\titleformat{\section}{\large\bfseries}{\thesection}{1em}{}[\titlerule] % Section title format
+\titlespacing*{\section}{0pt}{\baselineskip}{\baselineskip} % Section title spacing
+\setlist{nosep,topsep=-\parskip}
+
+% Begin document
+\begin{document}
+
+% Disable page numbers
+\pagestyle{empty}
+
+% Header
+\begin{center}
+\textbf{\Large Ojas Chaturvedi}\\[2pt] % Name
+Chandler, Arizona • \href{mailto:oj.chaturvedi.2024@gmail.com}{oj.chaturvedi.2024@gmail.com} • (480) 572-9578 • \href{https://www.github.com/ojas-chaturvedi}{github.com/ojas-chaturvedi} % Contact info
+\end{center}
+
+% Education Section
+\section*{EDUCATION}
+\noindent
+\textbf{BASIS Chandler High School} \hfill Chandler, AZ \\
+High Honors Diploma \hfill August 2020 | May 2024 \\
+15 AP Coursework | Relevant: AP Computer Science P, AP Computer Science A \hfill Weighted GPA\@: 4.74/5.00 \\
+Associated Honors: National Merit Semifinalist, AP Scholar with Distinction, Distinguished Honor Roll, \\
+Character \& Respect Award
+
+\section*{EXPERIENCE}
+\noindent
+\textbf{Code Ninjas Programming School} \hfill Chandler, AZ \\
+\textit{Sensei/Teacher} \hfill October 2022 | March 2023
+\begin{itemize}
+    \item Bullet Points
+\end{itemize}
+
+\section*{PROJECTS}
+
+\noindent
+\textbf{AoA Project} \hfill Chandler, AZ \\
+\textit{Project Link:} \url{https://github.com/ojas-chaturvedi/AoA-Project} \hfill November 2023 | Ongoing
+\begin{itemize}
+    \item Bullet Points
+\end{itemize}
+
+\noindent
+\textbf{Triggered Sentiments: NLP Insights into the Gun Control Controversy} \hfill Chandler, AZ \\
+\textit{Project Link:} \url{https://github.com/ojas-chaturvedi/NLP-Insights-Gun-Debate} \hfill October 2023 | Ongoing
+\begin{itemize}
+    \item Bullet Points
+\end{itemize}
+
+\noindent
+\textbf{Understanding Siri} \hfill Chandler, AZ \\
+\textit{Project Link:} \url{https://github.com/ojas-chaturvedi/Understanding-Siri} \hfill September 2022 | December 2022
+\begin{itemize}
+    \item Bullet Points
+\end{itemize}
+
+% Skills Section
+\section*{SKILLS}
+\begin{itemize}
+    \item \textbf{Programming Languages:} Python, Java, JavaScript, LaTeX, SQL, HTML, CSS
+    \item \textbf{Technologies/Frameworks:} Git, Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, NLTK, Docker, Firebase
+    \item \textbf{Developer Tools:} Visual Studio Code, Android Studio, Jupyter Notebook, Google Colab, MySQL, GitHub
+\end{itemize}
+
+% End document
+\end{document}
