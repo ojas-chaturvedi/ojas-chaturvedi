@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1701243718 "/Users/oj/Documents/ojas-chaturvedi/resume.tex" "build/resume.pdf" "resume" 1701243718 0
-  "/Users/oj/Documents/ojas-chaturvedi/resume.tex" 1701243718 8650 18d29fe3f253ef559d463bec0baf6942 ""
+["pdflatex"] 1701323723 "/Users/oj/Documents/ojas-chaturvedi/resume.tex" "build/resume.pdf" "resume" 1701323724 0
+  "/Users/oj/Documents/ojas-chaturvedi/resume.tex" 1701323723 8655 692fe6857907cf9af4cf53cf29cab450 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
@@ -60,9 +60,9 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1701186423 4623355 b8cad38412faebe1ce5b780a45db67bd ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1701186363 7883458 6f2b797840a02ffca6bbc4704ac17e06 ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "build/resume.aux" 1701243718 554 04ae3964aa57b78538b565d0454a3de2 "pdflatex"
-  "build/resume.out" 1701243718 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "resume.tex" 1701243718 8650 18d29fe3f253ef559d463bec0baf6942 ""
+  "build/resume.aux" 1701323724 554 04ae3964aa57b78538b565d0454a3de2 "pdflatex"
+  "build/resume.out" 1701323724 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "resume.tex" 1701323723 8655 692fe6857907cf9af4cf53cf29cab450 ""
   (generated)
   "build/resume.aux"
   "build/resume.log"
