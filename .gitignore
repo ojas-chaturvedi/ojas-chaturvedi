@@ -4,6 +4,7 @@
 
 # LaTeX-specific
 *.aux
+*.out
 *.fdb_latexmk
 *.fls
 *.log
