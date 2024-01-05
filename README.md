@@ -27,7 +27,7 @@ I'm Ojas Chaturvedi, a passionate high school student from BASIS Chandler, Arizo
 ## Looking Ahead
 
 - 🎓 I'm in the process of college applications and excited about the opportunities to further my education in computer science.
-- 💡 I'm eager to contribute to open source projects and collaborate with others who share my interests.
+- 💡 I'm eager to contribute to open-source projects and collaborate with others who share my interests.
 - 🔮 For a glimpse into what I'm planning next, check out my [Current & Future Projects](#current--future-projects) section below.
 
 ## Projects
@@ -47,12 +47,8 @@ I believe in continuous learning and development. Here's what I am working on an
 - **Smart City Infrastructure and Services Integration Platform**: This project focuses on developing a unified platform that integrates and optimizes various smart city services, including traffic management, energy consumption, and emergency responses. By harnessing IoT data and employing AI-driven analytics, the platform will improve urban efficiency, resource management, and citizen engagement. The aim is to create a more sustainable, responsive, and livable urban environment, leveraging technology to address the complexities of modern city management and enhance the quality of urban life.
 - **Ocean Cleanup and Monitoring Autonomous Fleet**: This project focuses on developing a unified platform that integrates and optimizes various smart city services, including traffic management, energy consumption, and emergency responses. By harnessing IoT data and employing AI-driven analytics, the platform will improve urban efficiency, resource management, and citizen engagement. The aim is to create a more sustainable, responsive, and livable urban environment, leveraging technology to address the complexities of modern city management and enhance the quality of urban life.
 
-### Past Projects Examples
 
-- [Python-Projects](https://github.com/ojas-chaturvedi/Python-projects): On my GitHub repository "Python-projects," you'll find a range of engaging games that I developed in Python during the AP Computer Science Principles course in the 2020-2021 school year. This collection includes classics and originals like "Brick Layer," "Ciphers," and "Figure8 Pattern," alongside popular adaptations such as "Hangman," "Pong," "Snake," "Space Invaders," and "Tic Tac Toe." There's also "Mortgage Calculator" for those interested in practical applications, and my own creation, "Protect the President Original game," which offers a unique gaming experience.
-- [Project Name](#): Another project showcasing your skills or interests.
-
-Feel free to reach out if you have feedback, questions, or want to collaborate on any of these projects!
+Feel free to reach out if you have feedback or questions on any of my past projects, or if you want to collaborate on any of these ongoing projects!
 
 ## Connect with Me
 
@@ -60,6 +56,7 @@ Feel free to reach out if you have feedback, questions, or want to collaborate o
 
 - 📧 [Email](oj.chaturvedi.2024@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ojaschaturvedi/)
+- 📄 [Resume](https://github.com/ojas-chaturvedi/ojas-chaturvedi/blob/master/build/resume.pdf)
 
 ## Thank You!
 
