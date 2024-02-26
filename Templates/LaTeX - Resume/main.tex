@@ -1,0 +1,93 @@
+% Document class and font size
+\documentclass[a4paper,9pt]{extarticle}
+
+% Packages
+\usepackage[utf8]{inputenc} % For input encoding
+\usepackage{geometry} % For page margins
+\geometry{a4paper, margin=0.61in} % Set paper size and margins
+\usepackage{titlesec} % For section title formatting
+\usepackage{enumitem} % For itemized list formatting
+\usepackage{hyperref} % For hyperlinks
+
+% Formatting
+\setlist{noitemsep} % Removes item separation
+\titleformat{\section}{\large\bfseries}{\thesection}{1em}{}[\titlerule] % Section title format
+\titlespacing*{\section}{0pt}{\baselineskip}{\baselineskip} % Section title spacing
+\setlist{nosep,topsep=-\parskip}
+
+%===============================================================================
+% Begin document
+\begin{document}
+%===============================================================================
+
+% Disable page numbers
+\pagestyle{empty}
+
+% Header
+\begin{center}
+\textbf{\Large FirstName LastName}\\[2pt] % Name
+City, State • \href{mailto:testing@gmail.com}{testing4@gmail.com} • (123) 456-7890 • \href{https://www.github.com/link-goes-here}{github.com/link-goes-here} % Contact info
+\end{center}
+
+%===============================================================================
+% Education Section
+\section*{EDUCATION}
+\noindent
+\textbf{School/College/University} \hfill City, State \\
+Diploma Type \hfill Start Date | End Date \\
+Relevant Coursework goes here \\
+Associated Honors goes here \\
+
+%===============================================================================
+\section*{EXPERIENCE}
+\noindent
+\textbf{Experience 1} \hfill State, City \\
+\textit{Position} \hfill Start Date | End Date
+\begin{itemize}
+    \item Bullet point 1
+    \item Bullet point 2
+\end{itemize}
+
+\noindent
+\newline
+\textbf{Experience 2} \hfill State, City \\
+\textit{Position} \hfill Start Date | End Date
+\begin{itemize}
+    \item Bullet point 1
+    \item Bullet point 2
+\end{itemize}
+
+
+%===============================================================================
+\section*{KEY PROJECTS}
+\noindent
+\textbf{Project 1} \hfill City, State \\
+\textit{Project Link:} \url{https://github.com/link-goes-here} \hfill Start Date | End Date
+\begin{itemize}
+    \item Bullet point 1
+    \item Bullet point 2
+\end{itemize}
+
+\noindent
+\newline
+\textbf{Project 2} \hfill City, State \\
+\textit{Project Link:} \url{https://github.com/link-goes-here} \hfill Start Date | End Date
+\begin{itemize}
+    \item Bullet point 1
+    \item Bullet point 2
+\end{itemize}
+
+%==============================================================================
+% \vspace*{\fill}
+% Skills Section
+\section*{TECHNICAL SKILLS}
+\begin{itemize}
+    \item \textbf{Programming Languages:} Put stuff here
+    \item \textbf{Frameworks:} Put stuff here
+    \item \textbf{Developer Tools:} Put stuff here
+\end{itemize}
+
+%===============================================================================
+% End document
+\end{document}
+%===============================================================================
