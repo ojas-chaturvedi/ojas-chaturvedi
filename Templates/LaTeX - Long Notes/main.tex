@@ -35,7 +35,7 @@
 \setlength{\parskip}{1.3mm}
 
 % Allow multi-line equations to break onto the next page
-\allowdisplaybreaks
+\allowdisplaybreaks{}
 
 % --- Page formatting settings ---
 
@@ -84,13 +84,13 @@
 \newcommand\numberthis{\addtocounter{equation}{1}\tag{\theequation}}
 
 % Shortcut for bold text in math mode, e.g. $\b{X}$
-\let\b\mathbf
+\let\b\mathbf{}
 
 % Shortcut for bold Greek letters, e.g. $\bg{\beta}$
-\let\bg\boldsymbol
+\let\bg\boldsymbol{}
 
 % Shortcut for calligraphic script, e.g. %\mc{M}$
-\let\mc\mathcal
+\let\mc\mathcal{}
 
 % \mathscr{(letter here)} is sometimes used to denote vector spaces
 \usepackage[mathscr]{euscript}
@@ -113,7 +113,7 @@
 
 % Uniform distribution: arguments are the left and right endpoints
 % E.g. $\unif{0}{1}$
-\newcommand{\unif}[2]{\text{Uniform}(#1,#2)}
+\newcommand{\unif}[2]{\text{Uniform} (#1,#2)}
 
 % Independent and identically distributed random variables
 % E.g. $ X_1,...,X_n \iid \normal{0}{1}$
