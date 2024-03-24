@@ -1,0 +1,3 @@
+[submodule "Templates/Typst"]
+	path = Templates/Typst
+	url = https://github.com/ojas-chaturvedi/typst-templates
