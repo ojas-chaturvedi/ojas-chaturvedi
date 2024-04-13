@@ -40,8 +40,7 @@ I believe in continuous learning and development. Here's what I am currently wor
 
 Feel free to reach out if you have feedback or questions on any of my past projects, or if you want to collaborate on any of these ongoing projects!
 
-<!-- - 📧 [Email][oj.chaturvedi.2024@gmail.com](mailto:oj.chaturvedi.2024@gmail.com) -->
-- <p>📧 <a href="mailto:oj.chaturvedi.2024@gmail.com">Email</a></p>
+- 📧 [Email: oj.chaturvedi.2024@gmail.com](mailto:oj.chaturvedi.2024@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ojaschaturvedi/)
 - 📞 [Book a Call](https://calendly.com/ojas-chaturvedi)
 
