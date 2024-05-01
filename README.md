@@ -42,7 +42,6 @@ Feel free to reach out if you have feedback or questions on any of my past proje
 
 - 📧 [Email: oj.chaturvedi.2024@gmail.com](mailto:oj.chaturvedi.2024@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ojaschaturvedi/)
-- 📞 [Book a Call](https://calendly.com/ojas-chaturvedi)
 
 ## Thank You
 
